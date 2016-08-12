@@ -18,8 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AddCounterActivity" />
-        <activity android:name=".ModifyCounterActivity"></activity>
+        <activity android:name=".AddSingleCounterActivity" />
+        <activity android:name=".ModifyCounterActivity" />
+        <activity android:name=".AddMultipleCountersActivity"></activity>
     </application>
 
 </manifest>
